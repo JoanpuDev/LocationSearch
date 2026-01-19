@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+xcuserdata/
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.playground
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Derived data
+DerivedData/
+
+# Local documentation
+LEARNINGS.md
+claude.md
